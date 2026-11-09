@@ -1,0 +1,5 @@
+structure                  deposited (Eh)           new (Eh)  diff (kcal/mol)
+aq8_1.xyz                  -1922.64537676     -1922.64537676           0.0000
+aq9_0.xyz                  -1922.64340259     -1922.64340259           0.0000
+s3_2_10.xyz                -2230.86299571     -2230.86299571           0.0000
+OK: all within 0.05 kcal/mol

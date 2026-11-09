@@ -1,0 +1,10 @@
+# Exact versions used for the published results (Python 3.13, Linux x86_64)
+numpy==2.5.3
+scipy==1.18.1
+ase==3.29.0
+rdkit==2026.9.1
+tblite==0.8.0
+pyscf==2.15.0
+dftd3==1.7.0
+basis-set-exchange==0.12
+matplotlib==3.11.2
